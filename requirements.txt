@@ -1,0 +1,7 @@
+pdfplumber
+google-generativeai
+python-dotenv
+weasyprint
+markdown
+mistletoe
+xhtml2pdf
